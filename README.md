@@ -10,4 +10,6 @@ Issue 2:
 Issue 3:
   Added setters and getters in the C++ subsystem files to created variables for the time and the two bools. Edited the Event Graph for the BC_ExamGameState so that when it's loaded, it will display the text on the hud based off what is stored in the subsystem.
 
-  
+Issue 4:
+Added the event for when the user clicks on E in the BC_ExamCharacter blueprint.
+Completed the method for 'Request Deliver Package' in BC_ExamGameMode.
